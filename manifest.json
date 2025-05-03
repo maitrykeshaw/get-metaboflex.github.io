@@ -1,12 +1,12 @@
 {
-  "name":"PWA Tutorial",
-  "short_name":"PWA",
+  "name":"MetaboFlex™ | Official Store | Special 80% OFF Today!!",
+  "short_name":"MetaboFlex™",
   "start_url":"index.html",
   "display":"standalone",
   "background_color":"#5900b3",
   "theme_color":"#FF5733",
   "scope": ".",
-  "description":"This is a PWA tutorial.",
+  "description":"MetaboFlex is a dietary supplement that is formulated to improve metabolic flexibility and aid in weight loss.",
   "icons":[
   {
   "src":"icons/favicon-192x192.png",                     
